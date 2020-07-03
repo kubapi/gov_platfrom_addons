@@ -9,6 +9,10 @@ def crawl_words(file):
     if type(file) != str:
         file = file.read()
 
+
+    #checks for <br /> and replaces
+    file = file.replace('<br />', '\n')
+    
     all_found = []
     for substring in re.findall(pattern, file):
         if len(substring) >= 3:
