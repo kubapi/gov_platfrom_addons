@@ -30,9 +30,6 @@ def crawl_words(file):
     #in case that find more than one returns array with consecutive fidnings
     return all
 
-
-test_case = []
-
 #ensures that scrip is run localy (!overwrites files!)
 if __name__ == '__main__':
 
