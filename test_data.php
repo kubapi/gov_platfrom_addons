@@ -1,4 +1,59 @@
-<!doctype html>
+<div class="row">
+  <div class="col-md-8 offset-md-2  text-left ">
+<ul class="nav nav-tabs nav-tabs-start">
+<li class="nav-item nav-item-start">
+<a class="nav-link nav-link-start active" href="<?php echo base_url();?>">DLA OSÓB I FIRM</a>
+</li>
+<li class="nav-item">
+<a class="nav-link nav-link-start" href="<?php echo base_url('start/sektor_publiczny');?>">DLA SEKTORA PUBLICZNEGO</a>
+</li>
+</ul>
+  </div>
+</div>
+
+
+<div class="row header-logo">
+  <div class="col-md-8 offset-md-2 my-5 text-left">
+    <div class="logo1"></div>
+    <div class="h2">Łączymy sektor publiczny <br />z najlepszymi pomysłami przedsiębiorców</div>
+    <a class="btn  btn-outline-primary mt-5" href="#konkursy">PODEJMIJ WYZWANIE TECHNOLOGICZNE</a>
+  </div>
+</div>
+
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+  <h1 class="h2">Usuwanie postępowania z obserwowanych </h1>
+</div>
+
+
+<?php
+
+$attributes = array('class'=>'form' );
+?>
+
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+  <h1 class="h2">Ustaw płatne wsparcie Operatora</h1>
+</div>
+
+<?php
+  echo form_open(current_url(),$attributes);
+?>
+
+
+            <hr class="mb-4">
+      <div class="row justify-content ">
+        <div class="col-md-2 ">
+            <a href="<?php echo base_url('postepowania')?>" class="btn btn-outline-secondary btn-block" >Wróć</a>
+        </div>
+        <div class="col-md-5 ">
+            <input class="btn btn-primary btn-block" type="submit" name="cancel" value="Anuluj płatne wsparcie">
+        </div>
+        <div class="col-md-5 ">
+            <input class="btn btn-primary btn-block" type="submit" name="proceed" value="Ustaw płatne wsparcie">
+        </div>
+      </div>
+          </form>
+
+          <!doctype html>
 <html lang="pl">
   <head>
     <meta charset="utf-8">
