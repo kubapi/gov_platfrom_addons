@@ -11,8 +11,8 @@ def crawl_words(file):
 
 
     #checks for <br /> and replaces
-    file = file.replace('<br />', '\n')
-    
+    file = file.replace('<br />', '#?&')
+
     all_found = []
     for substring in re.findall(pattern, file):
         if len(substring) >= 3:
@@ -35,16 +35,18 @@ def crawl_words(file):
             word = word[:word.find('<')]
         all.append(word)
 
-    # for word in all:
-    #     str = "<?php gettext('" + word + "')?>"
-    #     # print(str)
-    #     # print(word+'\n')
+    #replacing with working
+    # TODO: make changes with specific getext format
+
+    #changing break to \n when inside the gettext
+    file = file.replace('#?&', '\n')
 
     if len(all) == 1:
         return all[0]
     if len(all) == 0:
         return False
     #in case that find more than one returns array with consecutive fidnings
+    print(file)
     return all
 
 #ensures that scrip is run localy (!overwrites files!)
