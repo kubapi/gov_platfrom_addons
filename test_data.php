@@ -1,3 +1,6 @@
+<div class="h2">Łączymy sektor publiczny <br />z najlepszymi pomysłami przedsiębiorców</div>
+
+
 <div class="row">
   <div class="col-md-8 offset-md-2  text-left ">
 <ul class="nav nav-tabs nav-tabs-start">
