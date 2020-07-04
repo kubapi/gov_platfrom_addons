@@ -1,14 +1,15 @@
-<div class="h2">Łączymy sektor publiczny <br />z najlepszymi pomysłami przedsiębiorców</div>
+<div class="h2"><?php gettext('Łączymy sektor publiczny 
+z najlepszymi pomysłami przedsiębiorców')?></div>
 
 
 <div class="row">
   <div class="col-md-8 offset-md-2  text-left ">
 <ul class="nav nav-tabs nav-tabs-start">
 <li class="nav-item nav-item-start">
-<a class="nav-link nav-link-start active" href="<?php echo base_url();?>">DLA OSÓB I FIRM</a>
+<a class="nav-link nav-link-start active" href="<?php echo base_url();?>"><?php gettext('DLA OSÓB I FIRM')?></a>
 </li>
 <li class="nav-item">
-<a class="nav-link nav-link-start" href="<?php echo base_url('start/sektor_publiczny');?>">DLA SEKTORA PUBLICZNEGO</a>
+<a class="nav-link nav-link-start" href="<?php echo base_url('start/sektor_publiczny');?>"><?php gettext('DLA SEKTORA PUBLICZNEGO')?></a>
 </li>
 </ul>
   </div>
@@ -18,13 +19,14 @@
 <div class="row header-logo">
   <div class="col-md-8 offset-md-2 my-5 text-left">
     <div class="logo1"></div>
-    <div class="h2">Łączymy sektor publiczny <br />z najlepszymi pomysłami przedsiębiorców</div>
-    <a class="btn  btn-outline-primary mt-5" href="#konkursy">PODEJMIJ WYZWANIE TECHNOLOGICZNE</a>
+    <div class="h2"><?php gettext('Łączymy sektor publiczny 
+z najlepszymi pomysłami przedsiębiorców')?></div>
+    <a class="btn  btn-outline-primary mt-5" href="#konkursy"><?php gettext('PODEJMIJ WYZWANIE TECHNOLOGICZNE')?></a>
   </div>
 </div>
 
 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-  <h1 class="h2">Usuwanie postępowania z obserwowanych </h1>
+  <h1 class="h2"><?php gettext('Usuwanie postępowania z obserwowanych ')?></h1>
 </div>
 
 
@@ -34,7 +36,7 @@ $attributes = array('class'=>'form' );
 ?>
 
 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-  <h1 class="h2">Ustaw płatne wsparcie Operatora</h1>
+  <h1 class="h2"><?php gettext('Ustaw płatne wsparcie Operatora')?></h1>
 </div>
 
 <?php
@@ -45,7 +47,7 @@ $attributes = array('class'=>'form' );
             <hr class="mb-4">
       <div class="row justify-content ">
         <div class="col-md-2 ">
-            <a href="<?php echo base_url('postepowania')?>" class="btn btn-outline-secondary btn-block" >Wróć</a>
+            <a href="<?php echo base_url('postepowania')?>" class="btn btn-outline-secondary btn-block" ><?php gettext('Wróć')?></a>
         </div>
         <div class="col-md-5 ">
             <input class="btn btn-primary btn-block" type="submit" name="cancel" value="Anuluj płatne wsparcie">
@@ -68,35 +70,22 @@ $attributes = array('class'=>'form' );
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
 
-    <title>GovTech - Zaloguj się</title>
+    <title><?php gettext('GovTech - Zaloguj się')?></title>
 
     <link href="<?php echo site_url('assets/css/bootstrap.min.css')?>" rel="stylesheet">
     <link href="<?php echo site_url('assets/css/signin.css')?>" rel="stylesheet">
 
-    <script src="<?php echo site_url('assets/js/jquery-3.3.1.min.js')?>"></script>
-    <script src="<?php echo site_url('assets/js/vendor/popper.min.js')?>"></script>
-    <script src="<?php echo site_url('assets/js/bootstrap.min.js')?>"></script>
-    <script src="<?php echo site_url('assets/js/vendor/holder.min.js')?>"></script>
-    <script src="<?php echo site_url('assets/js/js.cookie.js')?>"></script>
-    <script src="<?php echo site_url('assets/js/script.js')?>"></script>
+    
+    
+    
+    
+    
+    
 <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KSQK3DB');</script>
+
 <!-- End Google Tag Manager -->
 <!-- Hotjar Tracking Code for https://konkursy.govtech.gov.pl -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:1470096,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
+
   </head>
 
   <body class="text-center">
@@ -108,14 +97,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <?php /* ?>
       <div class="row justify-content-right">
         <div class="col-md-12 text-center">
-<a href="#" class="changeThemeColour changeLink"><span data-feather="eye"></span> Wersja dla słabo widzących</a>
- &nbsp; <a href="#" class="changeFontSize changeLink"><span data-feather="zoom-in"></span> Powiększ tekst</a>
+<a href="#" class="changeThemeColour changeLink"><span data-feather="eye"></span><?php gettext(' Wersja dla słabo widzących')?></a>
+ &nbsp; <a href="#" class="changeFontSize changeLink"><span data-feather="zoom-in"></span><?php gettext(' Powiększ tekst')?></a>
         </div>
       </div>
       <?php */ ?>
     <div class="row header-logo">
       <div class="col-md-8 offset-md-2 my-5 text-left">
-        <div class="h2"><strong>Platforma GovTech</strong></div>
+        <div class="h2"><strong><?php gettext('Platforma GovTech')?></strong></div>
       </div>
     </div>
 
@@ -125,8 +114,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
           <li class="breadcrumb-item" style="margin-top: -2px;"><a href="https://govtech.gov.pl"><span data-feather="home"></span></a></li>
-          <li class="breadcrumb-item"><a href="<?php echo base_url()?>">Platforma GovTech</a></li>
-          <li class="breadcrumb-item active" aria-current="page">Logowanie</li>
+          <li class="breadcrumb-item"><a href="<?php echo base_url()?>"><?php gettext('Platforma GovTech')?></a></li>
+          <li class="breadcrumb-item active" aria-current="page"><?php gettext('Logowanie')?></li>
         </ol>
       </nav>
 
@@ -134,13 +123,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <div class="row">
       <div class="col-md-8 offset-md-2 my-2 text-left">
-        <div class="h3 mb-4"><strong>Zaloguj się na Plaformę GovTech</strong></div>
+        <div class="h3 mb-4"><strong><?php gettext('Zaloguj się na Plaformę GovTech')?></strong></div>
 <?php if($_counter>7 || $_login_failure_count>7){ ?>
-<script type="text/javascript">
- var RecaptchaOptions = {
-    theme : 'clean'
- };
-</script>
+
 <?php } ?>
 <?php
 $attributes = array('class'=>'form-signin');
@@ -156,39 +141,35 @@ echo $info_msg;
 
 
       <?php echo form_error('user_email'); ?>
-      <label for="inputEmail" >Adres email</label>
+      <label for="inputEmail" ><?php gettext('Adres email')?></label>
       <input type="email" id="inputEmail" class="form-control" placeholder="Adres email" name="user_email" required autofocus>
       <?php echo form_error('user_password'); ?>
-      <label for="inputPassword" class="mt-2">Hasło</label>
+      <label for="inputPassword" class="mt-2"><?php gettext('Hasło')?></label>
       <input type="password" id="inputPassword" class="form-control" placeholder="Hasło" name="user_password" required>
 <?php if($_counter>7 || $_login_failure_count>7){ ?>
       <div class="mb-3">
-        <label for="recaptcha-field" class="mt-2">Kod zabezpieczający</label>
+        <label for="recaptcha-field" class="mt-2"><?php gettext('Kod zabezpieczający')?></label>
         <?php echo form_error('g-recaptcha-response'); ?>
 
-<script>
-    var onloadCallback = function () {
-        grecaptcha.render('recaptcha-field', {'sitekey' : '<?php echo $siteKey ?>'});
-    };
-</script>
+
 <div id="recaptcha-field" class="g-recaptcha"></div>
 
       </div>
 <?php } ?>
       <div class="links text-left mb-5">
-      <a href="<?php echo site_url('haslo')?>" >Odzyskaj hasło</a>
+      <a href="<?php echo site_url('haslo')?>" ><?php gettext('Odzyskaj hasło')?></a>
       </div>
       <div class="row">
         <div class="col-md-6 align-middle">
-        <a class="btn-link btn-block mt-1" href="<?php echo site_url('rejestracja')?>" >Zarejestruj się</a>
+        <a class="btn-link btn-block mt-1" href="<?php echo site_url('rejestracja')?>" ><?php gettext('Zarejestruj się')?></a>
         </div>
         <div class="col-md-6">
-        <button class="btn btn-primary btn-block" type="submit">Zaloguj się</button>
+        <button class="btn btn-primary btn-block" type="submit"><?php gettext('Zaloguj się')?></button>
         </div>
       </div>
     </form>
 <?php if($_counter>7 || $_login_failure_count>7){ ?>
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+
 <?php } ?>
       </div>
     </div>
@@ -198,20 +179,11 @@ echo $info_msg;
 
   </div>
     <!-- Icons -->
-    <script src="<?php echo site_url('assets/js/feather.js')?>"></script>
-    <script>
-      feather.replace()
-    </script>
+    
+    
 
 <!-- Ybug code -->
-<script type='text/javascript'>
-(function() {
-    window.ybug_settings = {"id":"nvghw151zs"};
-    var ybug = document.createElement('script'); ybug.type = 'text/javascript'; ybug.async = true;
-    ybug.src = 'https://ybug.io/api/v1/button/'+window.ybug_settings.id+'.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ybug, s);
-})();
-</script>
+
 <!-- Ybug code end -->
   </body>
 </html>

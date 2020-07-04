@@ -2,18 +2,18 @@ import re
 import os
 
 def crawl_file(file):
-    if file != str:
+    if type(file) != str:
         file = file.read()
 
     file = file.replace('<br />', '#?#')
-
-    all = []
-    searching = False
+    file = file.replace('<br>', '#?#')
 
     #deleting all script tags
     pattern = r'<[ ]*script.*?\/[ ]*script[ ]*>'  # mach any char zero or more times
     file = re.sub(pattern, '', file, flags=(re.IGNORECASE | re.MULTILINE | re.DOTALL))
 
+    all = []
+    searching = False
     for e, char in enumerate(file):
         if char == '>':
             start = e
@@ -26,20 +26,18 @@ def crawl_file(file):
                     if any(c.isalpha() for c in file[start+1:end]):
                         all.append(file[start+1:end])
                 searching = False
-    print(all)
 
     #replacing with working
     for word in set(all):
         file = file.replace('>'+word+'<', f"><?php gettext('{word[0:len(word)]}')?><")
+
     #changing break to \n when inside the gettext
     file = file.replace('#?#', '\n')
     #in case that find more than one returns array with consecutive fidnings
-    return file
+    return file, len(all)
 
 #ensures that scrip is run localy (!overwrites files!)
 if __name__ == '__main__':
-    logs = []
-
 
     #gets current directory
     directory =  os.getcwd()
@@ -58,8 +56,8 @@ if __name__ == '__main__':
                     results = crawl_file(file)
 
                 with open(filepath, mode = 'w', encoding='utf-8') as file:
-                    if results != False:
-                        file.write(results)
+                    if results[1] != False:
+                        file.write(results[0])
                         logs.append(filepath)
 
     #saving changed files paths
