@@ -9,17 +9,16 @@ def crawl_words(file):
     if type(file) != str:
         file = file.read()
 
-
     #checks for <br /> and replaces
     file = file.replace('<br />', '#?&')
 
     all_found = []
     for substring in re.findall(pattern, file):
-        if len(substring) >= 3:
+        if len(substring) >= 2:
             iter = 0
             for char in substring:
                 #checks to ensure starting with alphabetic
-                if char.isalpha() == False:
+                if char.isalpha() == False or char == ' ' or char in ':,.][\;#$%^!@-–1234567890()]'.split():
                     iter += 1
                 else:
                     all_found.append(substring[iter:])
@@ -33,10 +32,12 @@ def crawl_words(file):
             word = word[word.find('>')+1:]
         if '<' in word:
             word = word[:word.find('<')]
-        all.append(word)
+        #adding for gettext purpose
+        all.append('>'+word+'<')
 
     #replacing with working
-    # TODO: make changes with specific getext format
+    for word in set(all):
+        file = file.replace(word, f"><?php gettext('{word[1:len(word)-1]}')?><")
 
     #changing break to \n when inside the gettext
     file = file.replace('#?&', '\n')
@@ -45,12 +46,14 @@ def crawl_words(file):
         return all[0]
     if len(all) == 0:
         return False
+
     #in case that find more than one returns array with consecutive fidnings
-    print(file)
-    return all
+    return file
 
 #ensures that scrip is run localy (!overwrites files!)
 if __name__ == '__main__':
+    logs = []
+
 
     #gets current directory
     directory =  os.getcwd()
@@ -66,9 +69,14 @@ if __name__ == '__main__':
             if filepath.endswith(".php") and "script.py" not in str(filepath):
                 #ensures encoding with polish signs (does not remove tags, spaces etc.)
                 with open(filepath, encoding='utf-8', mode='r+') as file:
-                    #loading of file to script
-                    print(crawl_words(file))
+                    results = crawl_words(file)
 
-                # with open(filepath, mode = 'w', encoding='utf-8') as file:
-                #     #overwriting files
-                #     pass
+                with open(filepath, mode = 'w', encoding='utf-8') as file:
+                    if results != False:
+                        file.write(results)
+                        logs.append(filepath)
+
+    #saving changed files paths
+    logs_file = open('logs.txt', mode='w+', encoding='utf-8')
+    logs_file.write(str(logs))
+    logs_file.close()
