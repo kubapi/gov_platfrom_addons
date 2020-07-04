@@ -1,52 +1,38 @@
 import re
 import os
 
-def crawl_words(file):
-    #current pattern
-    pattern = ">(.*?)<"
-
-    #if file is string than don't read inside
-    if type(file) != str:
+def crawl_file(file):
+    if file != str:
         file = file.read()
 
-    #checks for <br /> and replaces
-    file = file.replace('<br />', '#?&')
+    file = file.replace('<br />', '#?#')
 
-    all_found = []
-    for substring in re.findall(pattern, file):
-        if len(substring) >= 2:
-            iter = 0
-            for char in substring:
-                #checks to ensure starting with alphabetic
-                if char.isalpha() == False or char == ' ' or char in ':,.][\;#$%^!@-–1234567890()]'.split():
-                    iter += 1
-                else:
-                    all_found.append(substring[iter:])
-                    #dosen't need to loop more after finds alpha type sign
-                    break
-
-    #check if error with inside tag
     all = []
-    for word in all_found:
-        if '>' in word:
-            word = word[word.find('>')+1:]
-        if '<' in word:
-            word = word[:word.find('<')]
-        #adding for gettext purpose
-        all.append('>'+word+'<')
+    searching = False
+
+    #deleting all script tags
+    pattern = r'<[ ]*script.*?\/[ ]*script[ ]*>'  # mach any char zero or more times
+    file = re.sub(pattern, '', file, flags=(re.IGNORECASE | re.MULTILINE | re.DOTALL))
+
+    for e, char in enumerate(file):
+        if char == '>':
+            start = e
+            searching = True
+        if char == '<':
+            if searching == True:
+                end = e
+                if '{' not in file[start+1:end] and '&' not in file[start+1:end] and '$' not in file[start+1:end] and '}' not in file[start+1:end] and "'" not in file[start+1:end] and file[start+1:end].islower() == False:
+                    #deleting if does not contain alpabetic
+                    if any(c.isalpha() for c in file[start+1:end]):
+                        all.append(file[start+1:end])
+                searching = False
+    print(all)
 
     #replacing with working
     for word in set(all):
-        file = file.replace(word, f"><?php gettext('{word[1:len(word)-1]}')?><")
-
+        file = file.replace('>'+word+'<', f"><?php gettext('{word[0:len(word)]}')?><")
     #changing break to \n when inside the gettext
-    file = file.replace('#?&', '\n')
-
-    if len(all) == 1:
-        return all[0]
-    if len(all) == 0:
-        return False
-
+    file = file.replace('#?#', '\n')
     #in case that find more than one returns array with consecutive fidnings
     return file
 
@@ -69,7 +55,7 @@ if __name__ == '__main__':
             if filepath.endswith(".php") and "script.py" not in str(filepath):
                 #ensures encoding with polish signs (does not remove tags, spaces etc.)
                 with open(filepath, encoding='utf-8', mode='r+') as file:
-                    results = crawl_words(file)
+                    results = crawl_file(file)
 
                 with open(filepath, mode = 'w', encoding='utf-8') as file:
                     if results != False:
