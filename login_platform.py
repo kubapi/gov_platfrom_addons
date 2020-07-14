@@ -9,6 +9,6 @@ email.send_keys("0Okm!234")
 
 password = driver.find_element_by_name("inputPassword")
 password.clear()
-password.send_keys("catskillz")
+password.send_keys("0Okm!234")
 
 driver.find_element_by_name("submitButton").click()
