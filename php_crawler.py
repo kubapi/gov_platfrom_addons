@@ -7,8 +7,8 @@ def crawl_file(file):
 
 
 
-    file = file.replace('<br />', '#?#')
-    file = file.replace('<br>', '#?#')
+    # file = file.replace('<br />', '#?#')
+    # file = file.replace('<br>', '#?#')
 
     #making copy before deleting script tags
     rp_file = file
@@ -47,7 +47,7 @@ def crawl_file(file):
         rp_file = rp_file.replace('>'+word+'<', f"><?php gettext('{word[0:len(word)]}')?><")
 
     #changing break to \n when inside the gettext
-    rp_file = rp_file.replace('#?#', '\n')
+    # rp_file = rp_file.replace('#?#', '\n')
 
     #in case that find more than one returns array with consecutive fidnings
     return rp_file, len(all), flags
