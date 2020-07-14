@@ -23,7 +23,12 @@ class BiuraIDepartamentySpider(scrapy.Spider):
             # #add to every scaraped url
             biura_i_departamenty = '/biura-i-departamenty'
             href += biura_i_departamenty
-            yield {
-                'nazwa':nazwa,
-                'href':href,
-            }
+
+            #follow to page
+
+
+    def parse_biura_i_departamenty(self, response):
+        pass
+
+    def parse_email_i_kontaktowe(self, response):
+        pass
