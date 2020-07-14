@@ -44,7 +44,7 @@ def crawl_file(file):
 
     #replacing with working
     for word in set(all):
-        rp_file = rp_file.replace('>'+word+'<', f"><?php gettext('{word[0:len(word)]}')?><")
+        rp_file = rp_file.replace('>'+word+'<', f"><?php echo gettext('{word[0:len(word)]}')?><")
 
     #changing break to \n when inside the gettext
     # rp_file = rp_file.replace('#?#', '\n')
