@@ -1,0 +1,215 @@
+Ministerstwo,Nazwa biura/departamentu,Link to biura,Znalezione maile
+Ministerstwo Zdrowia,Departament Prawny,https://www.gov.pl/web/zdrowie/departamentprawny,{'dep-pr@mz.gov.pl'}
+Ministerstwo Zdrowia,Departament Ratownictwa Medycznego i Obronności,https://www.gov.pl/web/zdrowie/departament-ratownictwa-medycznegoobronnosci,{'dep-so@mz.gov.pl'}
+Ministerstwo Zdrowia,Departament Polityki Lekowej i Farmacji,https://www.gov.pl/web/zdrowie/departament-polityki-lekowejfarmacji,{'dep-pl@mz.gov.pl'}
+Ministerstwo Zdrowia,Departament Nadzoru i Kontroli,https://www.gov.pl/web/zdrowie/departament-nadzoru-i-kontroli,{'dep-dn@mz.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Koordynacji Systemów Zabezpieczenia Społecznego,https://www.gov.pl/web/rodzina/departament-koordynacji-systemow-zabezpieczenia-spolecznego,{'sekretariat.dsz@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Rynku Pracy,https://www.gov.pl/web/rodzina/departament-rynku-pracy,{'sekretariat.DRP@mrpips.gov.pl'}
+Ministerstwo Zdrowia,Departament Pielęgniarek i Położnych,https://www.gov.pl/web/zdrowie/departament-pielegniarekpoloznych,{'dep-pp@mz.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Wdrażania Europejskiego Funduszu Społecznego,https://www.gov.pl/web/rodzina/departament-wdrazania-europejskiego-funduszu-spolecznego,{'sekretariat.DWF@mrpips.gov.pl'}
+Ministerstwo Zdrowia,Departament Kwalifikacji Medycznych i Nauki,https://www.gov.pl/web/zdrowie/departament-kwalifikacji-medycznych-i-nauki,{'dep-ns@mz.gov.pl'}
+Ministerstwo Zdrowia,Departament Oceny Inwestycji,https://www.gov.pl/web/zdrowie/departament-oceny-inwestycji,{'dep-doci@mz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Sekretariat Ministra,https://www.gov.pl/web/dyplomacja/sekretariat-ministra,{'SM.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Inspektorat Służby Zagranicznej,https://www.gov.pl/web/dyplomacja/inspektorat-sluzby-zagranicznej,{'ISZ.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Protokół Dyplomatyczny,https://www.gov.pl/web/dyplomacja/protokol-dyplomatyczny1,{'PD.Sekretariat@msz.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Komunikacji i Promocji,https://www.gov.pl/web/rolnictwo/departament-komunikacji-i-promocji,{'rzecznik.prasowy@minrol.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Współpracy z Polonią i Polakami za Granicą,https://www.gov.pl/web/dyplomacja/departament-wspolpracy-z-polonia-i-polakami-za-granica,{'DWPPG.Sekretariat@msz.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Budżetu i Finansów,https://www.gov.pl/web/rolnictwo/departament-budzetu-i-finansow,{'sekretariat.bf@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Jakości Żywności i Bezpieczeństwa Produkcji Roślinnej,https://www.gov.pl/web/rolnictwo/departament-jakosci-zywnosci-i-bezpieczenstwa-produkcji-roslinnej,{'sekretariat.jpr@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Klimatu i Środowiska,https://www.gov.pl/web/rolnictwo/departament-klimatu-i-srodowiska,{'sekretariat.ks@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Płatności Obszarowych,https://www.gov.pl/web/rolnictwo/departament-platnosci-obszarowych,{'sekretariat.po@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Polityki Międzynarodowej,https://www.gov.pl/web/rolnictwo/departament-polityki-miedzynarodowej,{'sekretariat.pm@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Oświaty i Polityki Społecznej Wsi,https://www.gov.pl/web/rolnictwo/departament-oswiaty-i-polityki-spolecznej-wsi,{'sekretariat.ops@minrol.gov.pl'}
+Ministerstwo Infrastruktury,Biuro Administracyjno-Finansowe (BAF),https://www.gov.pl/web/infrastruktura/biuro-administracyjno-finansowe-baf,{'sekretariatBAF@mi.gov.pl'}
+Ministerstwo Infrastruktury,Biuro Zarządzania Kryzysowego (BZK),https://www.gov.pl/web/infrastruktura/biuro-zarzadzania-kryzysowego-bzk,{'sekretariatBZK@mi.gov.pl'}
+Ministerstwo Infrastruktury,Departament Transportu Drogowego (DTD),https://www.gov.pl/web/infrastruktura/departament-transportu-drogowego-dtd,{'sekretariatDTD@mi.gov.pl'}
+Ministerstwo Zdrowia,Biuro Komunikacji,https://www.gov.pl/web/zdrowie/biuro-komunikacji,{'biurokomunikacji@mz.gov.pl'}
+Ministerstwo Zdrowia,Biuro Administracyjne,https://www.gov.pl/web/zdrowie/biuro-administracyjne,{'biuro-ba@mz.gov.pl'}
+Ministerstwo Zdrowia,Biuro Ministra,https://www.gov.pl/web/zdrowie/biuroministra,{'biuro-bm@mz.gov.pl'}
+Ministerstwo Zdrowia,Departament Zdrowia Publicznego i Rodziny,https://www.gov.pl/web/zdrowie/departament-zdrowia-publicznego-i-rodziny,{'dep-zp@mz.gov.pl'}
+Ministerstwo Zdrowia,Departament Współpracy Międzynarodowej,https://www.gov.pl/web/zdrowie/departament-wspolpracymiedzynarodowej,{'dep-wm@mz.gov.pl'}
+Ministerstwo Zdrowia,Departament Systemu Zdrowia,https://www.gov.pl/web/zdrowie/departament-systemu-zdrowia,{'dep-sys@mz.gov.pl'}
+Ministerstwo Aktywów Państwowych,Departament Prawny,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-biuro-prawne,{'sekretariatDP@map.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Współpracy Międzynarodowej,https://www.gov.pl/web/rodzina/departament-wspolpracy-miedzynarodowej,{'sekretariat.DWM@mrpips.gov.pl'}
+Ministerstwo Aktywów Państwowych,Departament Nadzoru II,https://www.gov.pl/web/aktywa-panstwowe/departament-nadzoru-ii,{'sekretariatDNII@map.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Pomocy i Integracji Społecznej,https://www.gov.pl/web/rodzina/departament-pomocy-i-integracji-spolecznej1,{'sekretariat.dps@mrpips.gov.pl'}
+Ministerstwo Aktywów Państwowych,Departament Komunikacji,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-departament-komunikacji,{'sekretariatDKO@map.gov.pl'}
+Ministerstwo Aktywów Państwowych,Departament Nadzoru I,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-departament-nadzoru-i,{'sekretariatDNI@map.gov.pl'}
+Ministerstwo Aktywów Państwowych,Departament Kontroli i Audytu,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-departament-kontroli-i-audytu,"{'sekretariatDKA@map.gov.pl', 'sekretariatDKA@me.gov.pl'}"
+Ministerstwo Aktywów Państwowych,Departament Górnictwa,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-departament-gornictwa,"{'sekretariatDGA@me.gov.pl', 'sekretariatDGA@map.gov.pl'}"
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Budżetu i Finansów,https://www.gov.pl/web/rodzina/biuro-budzetu-i-finansow,{'sekretariat.BBF@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Analiz Ekonomicznych i Prognoz,https://www.gov.pl/web/rodzina/departament-analiz-ekonomicznych-i-prognoz,{'sekretariat.dae@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Funduszy,https://www.gov.pl/web/rodzina/departament-funduszy,{'sekretariat.DF@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Dialogu i Partnerstwa Społecznego,https://www.gov.pl/web/rodzina/departament-dialogu-i-partnerstwa-spolecznego,{'sekretariat.DDP@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Prawa Pracy,https://www.gov.pl/web/rodzina/departament-prawa-pracy,{'sekretariat.dpr@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Ekonomii Społecznej i Solidarnej,https://www.gov.pl/web/rodzina/departament-ekonomii-spolecznej-i-solidarnej,set()
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Kontroli i Audytu,https://www.gov.pl/web/rodzina/biuro-kontroli-i-audytu,{'sekretariat.BKA@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Prawny,https://www.gov.pl/web/rodzina/departament-prawny,{'sekretariat.DP@mrpips.gov.pl'}
+Ministerstwo Infrastruktury,Biuro Dyrektora Generalnego (BDG),https://www.gov.pl/web/infrastruktura/biuro-dyrektora-generalnego-bdg,{'sekretariatBDG@mi.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Biuro Dyrektora Generalnego,https://www.gov.pl/web/rolnictwo/biuro-dyrektora-generalnego2,"{'sekretariatbdg@minrol.gov.pl', 'sekretariat.bdg@minrol.gov.pl'}"
+Ministerstwo Rolnictwa i Rozwoju Wsi,Biuro Kontroli,https://www.gov.pl/web/rolnictwo/biuro-kontroli2,{'sekretariat.k@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Biuro Ministra,https://www.gov.pl/web/rolnictwo/biuro-ministra2,"{'sekretariatbm@minrol.gov.pl', 'sekretariat.bm@minrol.gov.pl'}"
+Ministerstwo Rolnictwa i Rozwoju Wsi,Biuro Administracyjne,https://www.gov.pl/web/rolnictwo/biuro-administracyjne,{'sekretariat.ba@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Wspólnej Polityki Rolnej,https://www.gov.pl/web/rolnictwo/departament-wspolnej-polityki-rolnej,"{'Sekretariat.wpr@minrol.gov.pl', 'sekretariat.wpr@minrol.gov.pl'}"
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Wsparcia Rolników,https://www.gov.pl/web/rolnictwo/departament-wsparcia-rolnikow,"{'Sekretariat.WR@minrol.gov.pl', 'sekretariat.wr@minrol.gov.pl'}"
+Ministerstwo Infrastruktury,Biuro Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego dla Rzeczypospolitej Polskiej (BPCPK),https://www.gov.pl/web/infrastruktura/biuro-pelnomocnika-rzadu-do-spraw-centralnego-portu-komunikacyjnego-dla-rzeczypospolitej-polskiej,{'sekretariatBPCPK@mi.gov.pl'}
+Ministerstwo Aktywów Państwowych,Biuro Dyrektora Generalnego,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-biuro-dyrektora-generalnego,"{'SekretariatBDG@me.gov.pl', 'SekretariatBDG@map.gov.pl'}"
+Ministerstwo Aktywów Państwowych,Biuro do spraw Reformy Nadzoru Właścicielskiego,https://www.gov.pl/web/aktywa-panstwowe/biuro-do-spraw-reformy-nadzoru-wlascicielskiego,{'sekretariatBRN@map.gov.pl'}
+Ministerstwo Aktywów Państwowych,Biuro Ministra,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-biuro-ministra,"{'sekretariatBM@map.gov.pl', 'sekretariatBM@me.gov.pl'}"
+Ministerstwo Aktywów Państwowych,Biuro Administracyjne,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-biuro-administracyjne,"{'sekretariatBA@map.gov.pl', 'sekretariatBA@me.gov.pl'}"
+Ministerstwo Infrastruktury,Departament Strategii Transportu (DST),https://www.gov.pl/web/infrastruktura/departament-strategii-transportu-dst,{'sekretariatDST@mi.gov.pl'}
+Ministerstwo Infrastruktury,Departament Współpracy Międzynarodowej (DWM),https://www.gov.pl/web/infrastruktura/departament-wspolpracy-miedzynarodowej-dwm,{'sekretariatDWM@mi.gov.pl'}
+Ministerstwo Infrastruktury,Sekretariat Krajowej Rady Bezpieczeństwa Ruchu Drogowego (SKR),https://www.gov.pl/web/infrastruktura/sekretariat-krajowej-rady-bezpieczenstwa-ruchu-drogowego-skr,{'sekretariatSKR@mi.gov.pl'}
+Ministerstwo Infrastruktury,Biuro Ministra (BM),https://www.gov.pl/web/infrastruktura/biuro-ministra-bm,{'sekretariatBM@mi.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,"Departament Strategii, Transferu Wiedzy i Innowacji",https://www.gov.pl/web/rolnictwo/departament-strategii-transferu-wiedzy-i-innowacji,{'sekretariat.swi@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Spraw Ziemskich,https://www.gov.pl/web/rolnictwo/departament-spraw-ziemskich,"{'sekretariat.sz@minrol.gov.pl', 'sekretariatgz@minrol.gov.pl'}"
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Prawny,https://www.gov.pl/web/rolnictwo/departament-prawny,{'sekretariat.dp@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Przetwórstwa i Rynków Rolnych,https://www.gov.pl/web/rolnictwo/departament-przetworstwa-i-rynkow-rolnych,"{'sekretariatbdg@minrol.gov.pl', 'sekretariat.prr@minrol.gov.pl'}"
+Ministerstwo Aktywów Państwowych,Departament Funduszy Europejskich i Instrumentów Rozwojowych,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-departament-funduszy-europejskich-i-instrumentow-rozwojowych,"{'sekretariatDFE@me.gov.pl', 'sekretariatDFE@map.gov.pl'}"
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Polityki Rodzinnej,https://www.gov.pl/web/rodzina/1departament-polityki-rodzinnej,{'sekretariat.dsr@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Promocji,https://www.gov.pl/web/rodzina/biuro-promocji,{'sekretariat.BP@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Polityki Senioralnej,https://www.gov.pl/web/rodzina/departament-polityki-senioralnej,{'sekretariat.DAS@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Informatyki,https://www.gov.pl/web/rodzina/departament-informatyki,{'sekretariat.DI@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Administracyjne,https://www.gov.pl/web/rodzina/biuro-administracyjne,{'sekretariat.BA@mrpips.gov.pl'}
+Ministerstwo Aktywów Państwowych,Departament Budżetu i Finansów,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-departament-budzetu-i-finansow,"{'sekretariatDBF@map.gov.pl', 'sekretariatDBF@me.gov.pl'}"
+Ministerstwo Aktywów Państwowych,Departament Bezpieczeństwa i Zarządzania Kryzysowego,https://www.gov.pl/web/aktywa-panstwowe/biura-i-departamenty-departament-bezpieczenstwa-i-zarzadzania-kryzysowego,"{'sekretariatdzk@map.gov.pl', 'sekretariatdzk@me.gov.pl'}"
+Ministerstwo Aktywów Państwowych,Departament Analiz i Sprawozdawczości,https://www.gov.pl/web/aktywa-panstwowe/departament-analiz-i-sprawozdawczosci,{'SekretariatDAS@map.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Społeczeństwa Informacyjnego,https://www.gov.pl/web/cyfryzacja/departament-spoleczenstwa-informacyjnego,{'Sekretariat.DSI@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Zarządzania Systemami,https://www.gov.pl/web/cyfryzacja/departament-zarzadzania-systemami,{'Sekretariat.DZS@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Zarządzania Danymi,https://www.gov.pl/web/cyfryzacja/departament-zarzadzania-danymi,{'Sekretariat.DZD@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Polityki Międzynarodowej,https://www.gov.pl/web/cyfryzacja/departament-polityki-miedzynarodowej,{'Sekretariat.DPM@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Telekomunikacji,https://www.gov.pl/web/cyfryzacja/departament-telekomunikacji,{'sekretariat.dt@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Rozwiązań Innowacyjnych,https://www.gov.pl/web/cyfryzacja/departamentu-rozwiazan-innowacyjnych,{'sekretariat.DRI@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Rozwoju Usług,https://www.gov.pl/web/cyfryzacja/departament-rozwoju-uslug-cyfrowych,{'sekretariat.dru@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Prawny,https://www.gov.pl/web/cyfryzacja/departament-prawny,{'sekretariat.dp@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Cyberbezpieczeństwa,https://www.gov.pl/web/cyfryzacja/departament-cyberbezpieczenstwa,{'sekretariat.dc@mc.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Zarządzania Zasobami Ludzkimi,https://www.gov.pl/web/fundusze-regiony/biuro-zarzadzania-zasobami-ludzkimi1,{'sekretariatBZL@mfipr.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Budżetu i Finansów,https://www.gov.pl/web/cyfryzacja/departament-budzetu-i-finansow,{'sekretariat.dbif@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Biuro Ministra,https://www.gov.pl/web/cyfryzacja/biuro-ministra,{'sekretariat.bm@mc.gov.pl'}
+ Ministerstwo Cyfryzacji ,Biuro Dyrektora Generalnego,https://www.gov.pl/web/cyfryzacja/biuro-dyrektora-generalnego,{'sekretariat.bdg@mc.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Certyfikacji i Desygnacji,https://www.gov.pl/web/fundusze-regiony/departament-certyfikacji-i-desygnacji1,{'sekretariatDCD@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Polityki Bezpieczeństwa,https://www.gov.pl/web/fundusze-regiony/biuro-polityki-bezpieczenstwa,"{'ekretariatBPB@mfipr.gov.pl', 'sekretariatBPB@mfipr.gov.pl', 'sekretariatDZK@mr.gov.pl'}"
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Obsługi Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej,https://www.gov.pl/web/fundusze-regiony/biuro-obslugi-pelnomocnika-rzadu-do-spraw-strategicznej-infrastruktury-energetycznej1,{'sekretariatBP@mfipr.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Biuro Administracyjne ,https://www.gov.pl/web/gospodarkamorska/ba,set()
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Departament Współpracy Międzynarodowej,https://www.gov.pl/web/gospodarkamorska/dwm,{'SekretariatDWM@mgm.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Departament Rybołówstwa,https://www.gov.pl/web/gospodarkamorska/dr,{'SekretariatDR@mgm.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Departament Prawny,https://www.gov.pl/web/gospodarkamorska/dp,{'SekretariatDP@mgm.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Rzecznika Funduszy Europejskich,https://www.gov.pl/web/fundusze-regiony/biuro-rzecznika-funduszy-europejskich,{'rzecznikfe@mfipr.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Departament Orzecznictwa i Kontroli Gospodarowania Wodami ,https://www.gov.pl/web/gospodarkamorska/dok,"{'sekretariatDOK@mgm.gov.pl', 'SekretariatDOK@mgm.gov.pl'}"
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Departament Gospodarki Wodnej i Żeglugi Śródlądowej ,https://www.gov.pl/web/gospodarkamorska/departament-gospodarki-wodnej-i-zeglugi-srodladowej,{'SekretariatDGWiZS@mgm.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Departament Gospodarki Morskiej ,https://www.gov.pl/web/gospodarkamorska/dgm,{'SekretariatDGM@mgm.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Departament Edukacji Morskiej,https://www.gov.pl/web/gospodarkamorska/dem,{'SekretariatDEM@mgm.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,"
+",https://www.gov.pl/web/gospodarkamorska/biuro-kontroli-i-audytu-wewnetrznego-bk,{'SekretariatBK@mgm.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Inicjatyw Społecznych,https://www.gov.pl/web/fundusze-regiony/biuro-inicjatyw-spolecznych,{'sekretariatBMS@mfipr.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Departament Nadzoru Właścicielskiego,https://www.gov.pl/web/gospodarkamorska/dnw,{'SekretariatDNW@mgm.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Ministra,https://www.gov.pl/web/fundusze-regiony/biuro-ministra1,{'sekretariatBM@mfipr.gov.pl'}
+ Ministerstwo Cyfryzacji ,Departament Architektury Informacyjnej Państwa,https://www.gov.pl/web/cyfryzacja/departament-architektury-informacyjnej-panstwa,{'Sekretariat.DAIP@mc.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Dyrektora Generalnego,https://www.gov.pl/web/fundusze-regiony/biuro-dyrektora-generalnego1,{'sekretariatBDG@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Komunikacji,https://www.gov.pl/web/fundusze-regiony/biuro-komunikacji1,"{'sekretariatBKM@miir.gov.pl', 'sekretariatBKM@mfipr.gov.pl'}"
+Ministerstwo Infrastruktury,Departament Prawny (DP),https://www.gov.pl/web/infrastruktura/departament-prawny-dp,{'sekretariatDP@mi.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Biuro Administracyjne,https://www.gov.pl/web/fundusze-regiony/biuro-administracyjne1,{'sekretariatBA@mfipr.gov.pl'}
+Ministerstwo Infrastruktury,Departament Poczty (DPO),https://www.gov.pl/web/infrastruktura/departament-poczty-dpo,{'sekretariatDPO@mi.gov.pl'}
+Ministerstwo Infrastruktury,Departament Lotnictwa (DL),https://www.gov.pl/web/infrastruktura/departament-lotnictwa-dl,{'sekretariatDL@mi.gov.pl'}
+Ministerstwo Infrastruktury,Departament Kontroli (DK),https://www.gov.pl/web/infrastruktura/departament-kontroli-dk,{'sekretariatDK@mi.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Programów Ponadregionalnych,https://www.gov.pl/web/fundusze-regiony/departament-programow-ponadregionalnych1,{'sekretariatDPP@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Programów Wsparcia Innowacji i Rozwoju,https://www.gov.pl/web/fundusze-regiony/departament-programow-wsparcia-innowacji-i-rozwoju1,{'sekretariatDIR@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Programów Pomocowych,https://www.gov.pl/web/fundusze-regiony/departament-programow-pomocowych1,{'sekretariatDPT@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Prawny,https://www.gov.pl/web/fundusze-regiony/departament-prawny1,{'sekretariatDP@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Koordynacji Wdrażania Funduszy Unii Europejskiej,https://www.gov.pl/web/fundusze-regiony/departament-koordynacji-wdrazania-funduszy-unii-europejskiej,{'sekretariatDKF@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Partnerstwa Publiczno-Prywatnego,https://www.gov.pl/web/fundusze-regiony/departament-partnerstwa-publiczno-prywatnego1,{'sekretariatDPA@mfipr.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Biuro Obrony i Ochrony Informacji Niejawnych,https://www.gov.pl/web/gospodarkamorska/boiin,set()
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Biuro Prasowe,https://www.gov.pl/web/gospodarkamorska/bp,{'SekretariatBP@mgm.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Biuro Dyrektora Generalnego,https://www.gov.pl/web/gospodarkamorska/bdg,{'SekretariatBDG@mgm.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Biuro Ministra,https://www.gov.pl/web/gospodarkamorska/biuro-ministra-bm,{'SekretariatBM@mgm.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Informatyki,https://www.gov.pl/web/fundusze-regiony/departament-informatyki1,{'sekretariatDI@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Kontroli,https://www.gov.pl/web/fundusze-regiony/departament-kontroli1,{'sekretariatDKN@mfipr.gov.pl'}
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej,Biuro Budżetowo – Finansowe ,https://www.gov.pl/web/gospodarkamorska/bbf,set()
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Promocji Funduszy Europejskich,https://www.gov.pl/web/fundusze-regiony/departament-promocji-funduszy-europejskich1,"{'sekretariatDIP@mfipr.gov.pl', 'sekretariatDIP@mfipr.gov.pll'}"
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Europejskiego Funduszu Społecznego,https://www.gov.pl/web/fundusze-regiony/departament-europejskiego-funduszu-spolecznego1,{'sekretariatDZF@mfipr.gov.pl'}
+Ministerstwo Infrastruktury,Departament Kolejnictwa (DTK),https://www.gov.pl/web/infrastruktura/departament-kolejnictwa-dtk,{'sekretariatDTK@mi.gov.pl'}
+Ministerstwo Infrastruktury,Departament Budżetu (DBI),https://www.gov.pl/web/infrastruktura/departament-budzetu-dbi,{'sekretariatDBI@mi.gov.pl'}
+Ministerstwo Infrastruktury,Departament Dróg Publicznych (DDP),https://www.gov.pl/web/infrastruktura/departament-drog-publicznych-ddp,"{'sekretariatDDA@mib.gov.pl', 'sekretariatDDP@mi.gov.pl'}"
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Współpracy z Zagranicą,https://www.gov.pl/web/kultura/departament-wspolpracy-z-zagranica,{'dwz@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Biuro Audytu Wewnętrznego i Kontroli,https://www.gov.pl/web/kultura/biuro-audytu-wewnetrznego-i-kontroli,{'bak@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Biuro Dyrektora Generalnego,https://www.gov.pl/web/kultura/biuro-dyrektora-generalnego,{'bdg@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Biuro Kadr i Szkolenia,https://www.gov.pl/web/kultura/biuro-kadr-i-szkolenia,{'bks@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Centrum Informacyjne MKiDN,https://www.gov.pl/web/kultura/centrum-informacyjne-mkidn,{'ci@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Biuro Ministra,https://www.gov.pl/web/kultura/biuro-ministra,{'bm@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Dziedzictwa Kulturowego za Granicą i Strat Wojennych,https://www.gov.pl/web/kultura/departamentu-dziedzictwa-kulturowego-za-granica-i-strat-wojennych,{'ddz@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Nadzoru Właścicielskiego,https://www.gov.pl/web/kultura/departament-nadzoru-wlascicielskiego,{'dnw@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Własności Intelektualnej i Mediów,https://www.gov.pl/web/kultura/departament-wlasnosci-intelektualnej-i-mediow,{'dwim@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Legislacyjny,https://www.gov.pl/web/kultura/departament-legislacyjny,{'dl@mkidn.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Budżetu ,https://www.gov.pl/web/fundusze-regiony/departament-budzetu,{'sekretariatDBR@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Gabinet Polityczny,https://www.gov.pl/web/fundusze-regiony/gabinet-polityczny,"{'sekretariatGP@mfipr.gov.pl', 'sekretariatGP@miir.gov.pl'}"
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Strategii ,https://www.gov.pl/web/fundusze-regiony/departament-strategii,{'sekretariatDSR@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Współpracy Terytorialnej,https://www.gov.pl/web/fundusze-regiony/departament-wspolpracy-terytorialnej1,{'sekretariatDWT@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Spraw Europejskich i Współpracy Międzynarodowej,https://www.gov.pl/web/fundusze-regiony/departament-spraw-europejskich1-i-wspolpracy-miedzynarodowej,{'sekretariatDEM@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Rozwoju Cyfrowego,https://www.gov.pl/web/fundusze-regiony/departament-rozwoju-cyfrowego1,{'sekretariatDRC@mfipr.gov.pl'}
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Programów Infrastrukturalnych,https://www.gov.pl/web/fundusze-regiony/departament-programow-infrastrukturalnych1,"{'sekretariatDPI@mfipr.gov.pl', 'sekretariatDPI@miir.gov.pl'}"
+Ministerstwo Funduszy i Polityki Regionalnej,Departament Regionalnych Programów Operacyjnych,https://www.gov.pl/web/fundusze-regiony/departament-regionalnych-programow-operacyjnych1,{'sekretariatDRP@mfipr.gov.pl'}
+Ministerstwo Klimatu,Departament Ochrony Powietrza i Polityki Miejskiej,https://www.gov.pl/web/klimat/departament-ochrony-powietrza-i-polityki-miejskiej,set()
+Ministerstwo Klimatu,Departament Gospodarki Odpadami,https://www.gov.pl/web/klimat/departament-gospodarki-odpadami,{'Departament.Gospodarki.Odpadami@klimat.gov.pl'}
+Ministerstwo Klimatu,Departament Energii Jądrowej,https://www.gov.pl/web/klimat/departament-energii-jadrowej,{'departament.energii.jadrowej@klimat.gov.pl'}
+Ministerstwo Klimatu,Departament Ciepłownictwa,https://www.gov.pl/web/klimat/departament-cieplownictwa,set()
+Ministerstwo Klimatu,Departament Funduszy Europejskich,https://www.gov.pl/web/klimat/departament-funduszy-europejskich,{'departament.funduszy.europejskich@klimat.gov.pl'}
+Ministerstwo Klimatu,Departament Elektromobilności i Gospodarki Wodorowej,https://www.gov.pl/web/klimat/elektromobilnosci-i-gospodarki-wodorowej,set()
+Ministerstwo Klimatu,Departament Elektroenergetyki,https://www.gov.pl/web/klimat/departament-elektroenergetyki,set()
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Ochrony Zabytków,https://www.gov.pl/web/kultura/departament-ochrony-zabytkow,{'doz@mkidn.gov.pl'}
+Ministerstwo Klimatu,Departament Edukacji i Komunikacji,https://www.gov.pl/web/klimat/departament-edukacji-i-komunikacji,"{'20Departament.Edukacji.i.Komunikacji@klimat.gov.pl', 'Departament.Edukacji.i.Komunikacji@klimat.gov.pl'}"
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Dziedzictwa Kulturowego,https://www.gov.pl/web/kultura/departament-dziedzictwa-kulturowego,{'ddk@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Mecenatu Państwa,https://www.gov.pl/web/kultura/departament-mecenatu-panstwa,{'dmp@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Szkolnictwa Artystycznego i Edukacji Kulturalnej,https://www.gov.pl/web/kultura/departament-szkolnictwa-artystycznego-i-edukacji-kulturalnej,{'dek@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Funduszy i Spraw Europejskich,https://www.gov.pl/web/kultura/departament-funduszy-i-spraw-europejskich,{'dfe@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Finansowy,https://www.gov.pl/web/kultura/departament-finansowy,{'df@mkidn.gov.pl'}
+Ministerstwo Kultury i Dziedzictwa Narodowego,Departament Narodowych Instytucji Kultury,https://www.gov.pl/web/kultura/departament-narodowych-instytucji-kultury,{'dik@mkidn.gov.pl'}
+Ministerstwo Klimatu,Departament Budżetu i Finansów,https://www.gov.pl/web/klimat/departament-budzetu-i-finansow,set()
+Ministerstwo Klimatu,Departament Strategii i Planowania Transformacji Klimatycznej,https://www.gov.pl/web/klimat/departament-strategii-i-planowania-transformacji-klimatycznej,set()
+Ministerstwo Klimatu,"Departament Spraw Obronnych, Zarządzania Kryzysowego i Bezpieczeństwa",https://www.gov.pl/web/klimat/departament-spraw-obronnych-zarzadzania-kryzysowego-i-bezpieczenstwa,"{'dso@klimat.gov.pl', 'DSO@klimat.gov.pl'}"
+Ministerstwo Klimatu,Departament Instrumentów Środowiskowych,https://www.gov.pl/web/klimat/departament-instrumentow-srodowiskowych,set()
+Ministerstwo Klimatu,Departament Spraw Międzynarodowych,https://www.gov.pl/web/klimat/departament-spraw-miedzynarodowych,set()
+Ministerstwo Klimatu,Biuro Dyrektora Generalnego,https://www.gov.pl/web/klimat/biuro-dyrektora-generalnego,{'Biuro.Dyrektora.Generalnego@klimat.gov.pl'}
+Ministerstwo Klimatu,Departament Ropy i Gazu,https://www.gov.pl/web/klimat/departament-ropy-i-gazu,{'departament.ropy.i.gazu@klimat.gov.pl'}
+Ministerstwo Klimatu,Departament Prawny,https://www.gov.pl/web/klimat/departament-prawny,{'Departament.Prawny@klimat.gov.pl'}
+Ministerstwo Klimatu,Departament Odnawialnych Źródeł Energii,https://www.gov.pl/web/klimat/departament-odnawialnych-zrodel-energii,{'departament.odnawialnych.zrodel.energii@klimat.gov.pl'}
+Ministerstwo Klimatu,Biuro Kontroli i Audytu ,https://www.gov.pl/web/klimat/biuro-kontroli-i-audytu,{'Biuro.Kontroli.i.Audytu.Wewnetrznego@klimat.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Gabinet Polityczny Ministra,https://www.gov.pl/web/rolnictwo/gabinet-polityczny-ministra2,set()
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Bezpieczeństwa Hodowli i Produkcji Zwierzęcej,https://www.gov.pl/web/rolnictwo/departament-bezpieczenstwa-hodowli-i-produkcji-zwierzecej,{'sekretariat.bhz@minrol.gov.pl'}
+Ministerstwo Rolnictwa i Rozwoju Wsi,Departament Bezpieczeństwa i Zarządzania Kryzysowego,https://www.gov.pl/web/rolnictwo/departament-bezpieczenstwa-i-zarzadzania-kryzysowego,"{'sekretariat.bzk@minrol.gov.pl', 'sekretariat.bhz@minrol.gov.pl'}"
+Ministerstwo Klimatu,Biuro Ministra,https://www.gov.pl/web/klimat/biuro-ministra,{'Biuro.Ministra@klimat.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Wschodni,https://www.gov.pl/web/dyplomacja/departament-wschodni,{'DW.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Współpracy Rozwojowej,https://www.gov.pl/web/dyplomacja/departament-wspolpracy-rozwojowej,{'DWR.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Współpracy Ekonomicznej,https://www.gov.pl/web/dyplomacja/departament-wspolpracy-ekonomicznej,{'DWE.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Strategii Polityki Zagranicznej,https://www.gov.pl/web/dyplomacja/departament-strategii-polityki-zagranicznej,{'dspz.sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Narodów Zjednoczonych i Praw Człowieka,https://www.gov.pl/web/dyplomacja/departament-narodow-zjednoczonych-i-praw-czlowieka,{'DNZPC.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Polityki Bezpieczeństwa,https://www.gov.pl/web/dyplomacja/departament-polityki-bezpieczenstwa,{'DPB.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Polityki Europejskiej,https://www.gov.pl/web/dyplomacja/departament-polityki-europejskiej,{'dpe.sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Prawno-Traktatowy,https://www.gov.pl/web/dyplomacja/departament-prawno-traktatowy,{'DPT.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Ekonomiczny Unii Europejskiej,https://www.gov.pl/web/dyplomacja/departament-ekonomiczny-unii-europejskiej,{'DEUE.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Konsularny,https://www.gov.pl/web/dyplomacja/departament-konsularny,{'DK.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Dyplomacji Publicznej i Kulturalnej,https://www.gov.pl/web/dyplomacja/departament-dyplomacji-publicznej-i-kulturalnej,{'DDPK.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Azji i Pacyfiku,https://www.gov.pl/web/dyplomacja/departament-azji-i-pacyfiku,{'DAP.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Ameryki,https://www.gov.pl/web/dyplomacja/departament-ameryki,{'DA.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Departament Afryki i Bliskiego Wschodu,https://www.gov.pl/web/dyplomacja/departament-afryki-i-bliskiego-wschodu,{'DABW.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Ochrony Informacji Niejawnych,https://www.gov.pl/web/dyplomacja/biuro-ochrony-informacji-niejawnych,{'boin.sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Rzecznika Prasowego MSZ,https://www.gov.pl/web/dyplomacja/biuro-rzecznika-prasowego-msz,{'Rzecznik@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Spraw Osobowych,https://www.gov.pl/web/dyplomacja/biuro-spraw-osobowych,{'BSO.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Inwestycji,https://www.gov.pl/web/dyplomacja/biuro-inwestycji,{'BI.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Kontroli i Audytu,https://www.gov.pl/web/dyplomacja/biuro-kontroli-i-audytu,{'BKA.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Informatyki i Telekomunikacji,https://www.gov.pl/web/dyplomacja/biuro-informatyki-i-telekomunikacji,{'BIT.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Dyrektora Politycznego,https://www.gov.pl/web/dyplomacja/biuro-dyrektora-politycznego,{'BDP.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Finansów,https://www.gov.pl/web/dyplomacja/biuro-finansow,{'BF.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Dyrektora Generalnego,https://www.gov.pl/web/dyplomacja/biuro-dyrektora-generalnego,{'BDG.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Archiwum i Zarządzania Informacją,https://www.gov.pl/web/dyplomacja/biuro-archiwum-i-zarzadzania-informacja,{'BAZI.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Biuro Administracji,https://www.gov.pl/web/dyplomacja/biuro-administracji,{'BA.Sekretariat@msz.gov.pl'}
+Ministerstwo Spraw Zagranicznych,Akademia Dyplomatyczna MSZ,https://www.gov.pl/web/dyplomacja/akademia-dyplomatyczna,{'ad.sekretariat@msz.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Departament Ubezpieczeń Społecznych,https://www.gov.pl/web/rodzina/departament-ubezpieczen-spolecznych,{'info@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Pełnomocnika Rządu do Spraw Równego Traktowania,https://www.gov.pl/web/rodzina/biuro-pelnomocnika-rzadu-do-spraw-rownego-traktowania,{'sekretariat.BRT@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Pełnomocnika Rządu do Spraw Polityki Demograficznej,https://www.gov.pl/web/rodzina/biuro-pelnomocnika-rzadu-do-spraw-polityki-demograficznej,{'sekretariat.BPD@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych,https://www.gov.pl/web/rodzina/biuro-pelnomocnika-rzadu-do-spraw-osob-niepelnosprawnych,set()
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Ministra,https://www.gov.pl/web/rodzina/biuro-ministra,{'sekretariat.BM@mrpips.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Biuro Dyrektora Generalnego,https://www.gov.pl/web/rodzina/biuro-dyrektora-generalnego1,{'sekretariat.BDG@mrpips.gov.pl'}
+Ministerstwo Zdrowia,Departament Dialogu Społecznego,https://www.gov.pl/web/zdrowie/departament-dialoguspolecznego,{'dep-ds@mz.gov.pl'}
+Ministerstwo Zdrowia,Departament Budżetu i Finansów,https://www.gov.pl/web/zdrowie/departament-budzetu-i-finansow,{'dep-bf@mz.gov.pl'}
+"Ministerstwo Rodziny, Pracy i Polityki Społecznej",Dyrektor Generalny,https://www.gov.pl/web/rodzina/dyrektor-generalny3,{'sekretariat.dg@mrpips.gov.pl'}
+Ministerstwo Zdrowia,Departament Analiz i Strategii,https://www.gov.pl/web/zdrowie/departament-analizstrategii,{'dep-as@mz.gov.pl'}
