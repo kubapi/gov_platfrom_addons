@@ -24,7 +24,7 @@ class BiuraIDepartamentySpider(scrapy.Spider):
             # link to the website
             href = 'https://www.gov.pl'+ministestwo.xpath('.//@href').get()
             # #add to every scaraped url
-            biura_i_departamenty = '/biura-i-departamenty'
+            biura_i_departamenty = '/biura-i-departamenty-1'
 
 
             href += biura_i_departamenty
