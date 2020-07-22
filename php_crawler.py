@@ -17,6 +17,9 @@ def crawl_file(file):
     pattern = r'<[ ]*script.*?\/[ ]*script[ ]*>'  # mach any char zero or more times
     file = re.sub(pattern, '', file, flags=(re.IGNORECASE | re.MULTILINE | re.DOTALL))
 
+
+
+
     all = []
     flags = 0
     searching = False
@@ -45,6 +48,25 @@ def crawl_file(file):
     #replacing with working
     for word in set(all):
         rp_file = rp_file.replace('>'+word+'<', f"><?php echo gettext('{word[0:len(word)]}')?><")
+
+
+    findings = re.findall("(?s)(?<='label'=>).*?(?=,)+", rp_file)
+    for found in findings:
+        if '$' not in found or '=' not in found:
+            rp_file = rp_file.replace(found, 'gettext('+found+')')
+    findings = re.findall("(?s)(?<='label' =>).*?(?=,)+", rp_file)
+    for found in findings:
+        if '$' not in found or '=' not in found:
+            rp_file = rp_file.replace(found, 'gettext('+found+')')
+
+    findings = re.findall("(?s)(?<='description'=>).*?(?=,)+", rp_file)
+    for found in findings:
+        if '$' not in found or '=' not in found:
+            rp_file = rp_file.replace(found, 'gettext('+found+')')
+    findings = re.findall("(?s)(?<='description' =>).*?(?=,)+", rp_file)
+    for found in findings:
+        if '$' not in found or '=' not in found:
+            rp_file = rp_file.replace(found, 'gettext('+found+')')
 
     #changing break to \n when inside the gettext
     # rp_file = rp_file.replace('#?#', '\n')
