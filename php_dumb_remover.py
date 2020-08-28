@@ -6,7 +6,7 @@ def crawl_file(file):
         file = file.read()
 
     rp_file = file
-    findings = re.findall("gettext\(.(.*?)\W\)", rp_file)
+    findings = re.findall("(?s)gettext\(.(.*?)\W\)", rp_file)
     for found in findings:
         if '$' not in found or '=' not in found:
             rp_file = rp_file.replace(found, found.strip().replace('\r','').replace('\n',''))
